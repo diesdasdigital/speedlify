@@ -1,6 +1,6 @@
 module.exports = {
   name: "Live Websites", // optional, falls back to object key
-  description: "Sites that we have developed and have launched",
+  description: "Launched websites",
   options: {
     frequency: 60 * 23, // (in minutes), 23 hours
   },
