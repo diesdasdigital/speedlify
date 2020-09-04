@@ -11,5 +11,6 @@ module.exports = {
     "https://www.psw-engineering.de/",
     "https://3d-akademie.de/",
     "https://www.agripolicykit.net/en",
+    "https://z2x.zeit.de/"
   ],
 };
