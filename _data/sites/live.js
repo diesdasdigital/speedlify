@@ -7,9 +7,9 @@ module.exports = {
   urls: [
     "https://www.diesdas.digital/",
     "https://www.kicommunity.de/",
-    "https://infarm.de/",
+    "https://www.infarm.de/",
     "https://www.psw-engineering.de/",
     "https://3d-akademie.de/",
-    "https://www.agripolicykit.net/",
+    "https://www.agripolicykit.net/en",
   ],
 };
