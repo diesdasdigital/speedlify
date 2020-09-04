@@ -1,4 +1,4 @@
-# speedlify
+# speedlify [![Netlify Status](https://api.netlify.com/api/v1/badges/fc436513-b2e3-4716-82a4-e9bb5fc10816/deploy-status)](https://app.netlify.com/sites/diesdas-speedlify/deploys)
 
 After you make a fast web site, keep it fast by measuring it over time. Read [Use Speedlify to Continuously Measure Site Performance](https://www.zachleat.com/web/speedlify/). Created by [@zachleat](https://www.zachleat.com/).
 
